@@ -1,0 +1,1 @@
+gcc-fsf-4.4 -o poisson.x -m32 -L/sw/lib -lfftw3 -lm -DPI=3.14159 Poisson.c
